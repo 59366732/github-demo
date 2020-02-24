@@ -8,3 +8,4 @@ New line from remote repository.
 This line from local repository.
 
 New line from local repository.
+This line from local repository using bash.
